@@ -74,9 +74,9 @@ For further details, please check out the following resources:
 - [Machine Readable News](https://www.lseg.com/en/data-analytics/financial-news-services/machine-readable-news) website.
 - [Paramiko offical website](https://www.paramiko.org/)
 - [Paramiko API document](https://docs.paramiko.org/en/latest/)
+- [Paramiko SFTP API document](https://docs.paramiko.org/en/latest/api/sftp.html)
+- [Paramiko Client API document](https://docs.paramiko.org/en/latest/api/client.html)
 - [Paramiko- How to transfer files with Remote System (SFTP Servers) using Python](https://medium.com/nerd-for-tech/paramiko-how-to-transfer-files-with-remote-system-sftp-servers-using-python-52d3e51d2cfa) blog post.
 - [How-to: Python Paramiko](https://manicodes.hashnode.dev/how-to-python-paramiko) blog post.
 - [Paramiko SFTP: A Guide with Examples](https://sftpcloud.io/learn/python/paramiko-sftp-examples) website.
-
-For any questions related to this example, please use the Developer Community [Q&A Forum](https://community.developers.refinitiv.com).
 
