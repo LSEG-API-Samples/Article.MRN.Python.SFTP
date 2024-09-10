@@ -11,6 +11,8 @@ Machine Readable News (MRN) is an advanced service for automating the consumptio
 
 The MRN data Real-Time news and News Analytics data are available for consumers via the LSEG Real-Time Platform and SFTP connections. While the Real-Time news connection can be accessed programmatically only (we have covered it via the [Introduction to Machine Readable News (MRN) with Enterprise Message API (EMA)](https://developers.lseg.com/en/article-catalog/article/introduction-machine-readable-news-mrn-elektron-message-api-ema) and [Introduction to Machine Readable News with WebSocket API](https://developers.lseg.com/en/article-catalog/article/introduction-machine-readable-news-elektron-websocket-api-refinitiv) articles), the SFTP connection can be access with any SFTP applications like the [FileZilla](https://filezilla-project.org/), [WinSCP](https://winscp.net), or even Windows native ```SFTP``` command. 
 
+![figure-1](images/mrn_sftp1.png "MRN SFTP with FileZilla")
+
 However, some developers might need to access the SFTP remote server and get the file programmatically. This project shows a step-by-step guide to access and get the file from the MRN Remote SFTP site using the [Python](https://www.python.org/) programming language with the [Paramiko library](https://www.paramiko.org/) on the [JupyterLab notebook](https://jupyter.org/).
 
 ## Example Prerequisite
@@ -64,7 +66,7 @@ It is an advisable to create a dedicate Python environment to run each Python pr
   ```
 7. Open *mrn_sftp_app.ipynb* notebook application, then follow through each notebook cell.
 
-![figure-1](images/mrn_sftp1.png "MRN SFTP Notebook example")
+![figure-2](images/mrn_sftp2.png "MRN SFTP Notebook example")
 
 ## <a id="references"></a>References
 
