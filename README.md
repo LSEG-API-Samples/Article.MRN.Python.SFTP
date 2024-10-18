@@ -21,10 +21,16 @@ This example requires the following dependencies software and libraries.
 
 1. Python [Anaconda](https://www.anaconda.com/distribution/) or [MiniConda](https://docs.conda.io/en/latest/miniconda.html) distribution/package manager.
 2. [JupyterLab](https://jupyter.org/) application.
-3. MRN Archive SFTP access with credential
-4. Internet connection.
+3. MRN Archive SFTP access with credential.
+4. A connection to MRN SFTP Remote server.
 
 Please contact your LSEG representative or Account Manager to help you to access the MRN access.
+
+## VPN Connection
+
+Please be informed that I needs to connect to the MRN SFTP Remote server via Cisco AnyConnect VPN from the LSEG local machine.
+
+I strongly suggest you contact the MRN Support and your local IT Support team to help you with a connect to MRN SFTP from your company environment.
 
 ## How to run this example
 
