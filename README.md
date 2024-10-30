@@ -87,4 +87,5 @@ For further details, please check out the following resources:
 - [Paramiko- How to transfer files with Remote System (SFTP Servers) using Python](https://medium.com/nerd-for-tech/paramiko-how-to-transfer-files-with-remote-system-sftp-servers-using-python-52d3e51d2cfa) blog post.
 - [How-to: Python Paramiko](https://manicodes.hashnode.dev/how-to-python-paramiko) blog post.
 - [Paramiko SFTP: A Guide with Examples](https://sftpcloud.io/learn/python/paramiko-sftp-examples) website.
+- [Using Paramiko with SOCKS proxy](https://stackoverflow.com/questions/47441351/using-paramiko-with-socks-proxy) post on [StackOverflow](https://stackoverflow.com/).
 
